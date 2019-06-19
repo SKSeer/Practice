@@ -1,4 +1,7 @@
 
 public class test1 {
-//Hello World
+
+	public static void main(String [] args) {
+		
+	}
 }
